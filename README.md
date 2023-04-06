@@ -12,7 +12,7 @@ Determine tree coverage type based on surrounding forest characteristics. Determ
 
 I am using a csv file that contain forest characteritics to train a decision tree model in order to solve a binary classification. The decision tree model has a 95% precision and will be effective in solving this problem. 
 
-![alt text]Desktop/'README imag.jpg'
+![alt text](https://github.com/sreagan1/Semester2_Capstone_SageR/blob/main/README%20image.jpg)
 
 ## Business Understanding
 
