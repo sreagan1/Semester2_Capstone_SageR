@@ -1,9 +1,18 @@
-# Semester2_Capstone_Tree_Coverage_Type
+# Tree Coverage Type Prediction
 
 ## Links to the Dataset Source and the Powerpoint
 
 link to dataset source: https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+
 link to powerpoint: https://github.com/sreagan1/Semester2_Capstone_SageR/blob/main/Capstone2Prez.pptx
+
+## Summary
+
+Determine tree coverage type based on surrounding forest characteristics. Determining tre coverage type will allow the Bureau of Land Management to know which trees to cut down to thin the Roosevelt National Park forest for better forest health. 
+
+I am using a csv file that contain forest characteritics to train a decision tree model in order to solve a binary classification. The decision tree model has a 95% precision and will be effective in solving this problem. 
+
+![alt text]Desktop/'README imag.jpg'
 
 ## Business Understanding
 
@@ -15,7 +24,7 @@ are many Lodgepole Pine trees within the forest and that selling the lumber from
 financially beneficial. Therefore, the Bureau of Land Management wants to know if trees in certain areas 
 are Lodgepole Pines, based on the surrounding environmental features within the forest. Furthermore, it is 
 important that the Bureau not cut down other types of trees as it will not benefit the health of the forest, 
-and the lumber from those trees will be worth less financially. 
+and the lumber from those trees will be worth less financially.
 
 ## Data Understanding
 
@@ -57,7 +66,30 @@ Tree Coverage Type is the target variable.
     a. Create a confusion matrix and evaluate the the precision, recall, accruacy, and F1 of the new model. 
 10. Compare the basic model and updated model based on the confusion matric and evaluation metrics of each to determine which model would be     the most benneficial to use in order to solve the business case. 
 
-## Instructions to Navigate Repository
+## Model Evaluation
+
+I used decision tree classifier in order to solve a binary classification problem. 
+
+Baseline model evaluation metrics:
+- Precision: 95.4%
+- Recall: 95.3%
+- Accuracy: 95.5%
+- F1: 95.3%
+
+Secondary Model:
+- Precision: 95.2%
+- Recall: 94.2%
+- Accuracy: 94.9%
+- F1: 94.7%
+
+While both models performed well, the baseline model performed best in regards to precision, recall, accuracy, and F1. 
+Based on these findings, the baseline model should be used for the business case. 
+
+## Conclusion 
+
+I recomend that the baseline model be used in the binary classification of tree types within Roosevelt National Park forest. 
+
+## Repository Navigation
 
 The repository contains 5 files: the README, the Jupyter Notebook, the Capstone Project Proposal, the Capstone Presentation, and the git ignore file. 
 
