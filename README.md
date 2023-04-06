@@ -3,7 +3,7 @@
 ## Links to the Dataset Source and the Powerpoint
 
 link to dataset source: https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
-link to powerpoint: 
+link to powerpoint: https://github.com/sreagan1/Semester2_Capstone_SageR/blob/main/Capstone2Prez.pptx
 
 ## Business Understanding
 
