@@ -26,6 +26,8 @@ are Lodgepole Pines, based on the surrounding environmental features within the 
 important that the Bureau not cut down other types of trees as it will not benefit the health of the forest, 
 and the lumber from those trees will be worth less financially.
 
+more information on why thinning a forest can be benneficial to it's health: https://www.fs.usda.gov/features/thinning-forest-trees#:~:text=It%20is%20used%20to%20restore,susceptible%20to%20insect%20and%20disease.
+
 ## Data Understanding
 
 The following are the variables within the dataset:
