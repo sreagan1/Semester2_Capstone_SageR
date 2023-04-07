@@ -50,6 +50,10 @@ Tree Coverage Type is the target variable.
 
 ## Jupyter Notebook Steps
 
+To get the data: download data from kaggle link, unzip file into local repository on computer.
+
+Tools used: pandas, numpy, matplotlib, sklearn, git hub 
+
 1. Load data into Jupyter Notebook
 2. Examine dataframe to understand what the dataset contains and the neccesary preprossesing steps
     a. There are no null values, are categorical data that needs to be encoded
